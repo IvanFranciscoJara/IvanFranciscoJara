@@ -1,8 +1,8 @@
 # Hi, I´m Ivan, Full stack developer, in love with PWA, Javascript and React.
-#### If you have any suggestions for mas repositories
+#### If you have any suggestions about my repositories, please send me an email at ifranciscojara@gmail.com
 
 
-Currently iam working every day with React, Typescript, Express.js and SQL server
+Currently, I am working every day with React, Typescript, Express.js, and SQL server
 
 Technologies that i use :
 * Libraries/Frameworks: React, ASP.net
