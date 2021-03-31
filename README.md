@@ -7,7 +7,6 @@ Currently, I am working every day with React, Typescript, Express.js, and SQL se
 Technologies that i use :
 * Libraries/Frameworks: React, ASP.net
 * Data Bases: SQL Server, Mongo DB
-* Languages:HTML (i´m kidding 😄), Javascript, C#, Typescript
 * Cloud: Azure, AWS S3, AWS Amplify, AWS CloudFront,
 * Others: Sass, Webpack, Json Web Tokens
 
