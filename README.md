@@ -1,14 +1,13 @@
-# Hi, I´m Ivan, Full stack developer, in love with PWA, Javascript and React.
+# Hi, I´m Ivan, Full stack developer, in love Typescript and Next.js.
 #### If you have any suggestions about my repositories, please send me an email at ifranciscojara@gmail.com
 
 
-Currently, I am working every day with React, Typescript, Express.js, and SQL server
+Currently, I am working every day with React, Typescript, Prizma, Drizzle, and SQL server
 
 Technologies that i use :
-* Libraries/Frameworks: React, ASP.net
+* Libraries/Frameworks: React.js, Next.js
 * Data Bases: SQL Server, Mongo DB
-* Cloud: Azure, AWS S3, AWS Amplify, AWS CloudFront,
-* Others: Sass, Webpack, Json Web Tokens
+* Cloud: Azure, AWS S3, AWS Amplify, AWS CloudFront, Vercel, Planetscale
 
 <!--
 **IvanFranciscoJara/IvanFranciscoJara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
